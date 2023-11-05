@@ -1,0 +1,10 @@
+.banner
+{
+    background-color:brown;
+    color:#333;
+    width:100%;
+    heigth: 100vh;
+    display:flex;
+    justify-content: content;
+    align-item: content;
+}
